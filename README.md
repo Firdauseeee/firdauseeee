@@ -5,7 +5,3 @@ Here are some ideas to get you started:
 
 - 🔭 I have a strong  interest in Modern Devops Practices, Linux, Shell scripting, Git, Virtualization, Jenkins and would like to extend my skills as a DevOps engineer.
 - 🌱 I’m currently learning Kubernetes
--
--
--
--->
