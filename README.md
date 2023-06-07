@@ -1,7 +1,5 @@
 ### Hi there 👋
 I am currently a student at Budapest University of technology and economics studying Computer science and electrical engineering with the hopes of advancing my career as a Devops engineer
-<!--
-**Firdauseeee/firdauseeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
